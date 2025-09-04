@@ -1,0 +1,124 @@
+https://test-takers.psiexams.com/github/manage/my-tests
+PROJECT - CODE MCM PID - 101056537 - MCM_SFCC_Enhance_Service
+
+confluence Link -
+https://mcmworldwide.atlassian.net/wiki/spaces/DT/pages/4096753665/PDP+User+Guide
+
+https://bcfj-001.dx.commercecloud.salesforce.com/on/demandware.store/Sites-Site/default/ViewApplication-DisplayWelcomePage
+
+bcfj-001.dx.commercecloud.salesforce.com
+anant.dhiman@capgemini.com ( sandbox cred)
+Capgemini@03062025
+new one -
+Capgemini@19082025
+
+
+For debugging the component in Isml- ${JSON.stringify(attr,null,2)}
+
+
+FIGMA CRED- sriharan.suresh@capgemini.com/Sri@9952
+
+COMMANDS-
+
+npm run buildsuite:css 
+npm run buildsuite:js
+npm run buildsuite:svg
+
+npm run buildsuite:configure 
+
+npm run buildsuite:sbox:upload:meta  
+
+IMPORTANT POINTS -
+Internet bill project -100751980
+pdp main component link - https://www.figma.com/design/IZLywoX2P0xvxiK1owiw01/Product-Details-Page-Redesign-2024?node-id=491-29654&node-type=canvas&m=dev
+
+plp main branch - integration/CG-PLP-Redesign
+
+
+PIM Meta is in folder -> ecom-mcm\site-data\pdp-redesign
+
+PDP redesign branch -> integration/CG-PDP-Redesign
+
+homepage improvements - integration/CG-Homepage-Improvements
+
+plp phase 2 - git checkout integration/CG-PLP-Phase2
+
+new ticket branch - integration/CG-Aug2025
+
+		integration/CG-PIM2.5-HP-PLP2
+
+sept branch - integration/CG-SepEnd2025
+
+
+To import the content asset path -
+Administration > Site Development > Site Import & Export
+
+
+rename to append Redesign
+any isml we are adding in pdpredesign folder , even if it is new lets follow this convention	
+
+while creating content asset need to put the content asset content in 3 countries 
+according this 
+segregate data according this 
+NA- x-deafult, fr-ca
+EU- x-default, fr,de
+APAC- x-default, zh, zh-hk,zh-tw,ja-jp,ko-kr,th-TH
+
+
+https://airtable.com/apps4Fbwnozq0gbz2/shrtFqY1UZ2cM0Rp1/tblQaXs9h8dsjFnGC/viwF6yQeqwpSbOjrY?blocks=hide
+sm - till 577
+
+
+  git config --global user.email "you@example.com"
+  git config --global user.name "Your Name"
+
+FR-CR 
+
+MCM-DE
+
+pr.pdp
+
+
+slik dots  
+
+check plp and pdp srp also 
+
+
+
+New item added to bag!
+
+
+minicart.newitem.msg = New item added to bag! 
+
+
+
+mini-cart-add-on-product-to-product
+
+
+in dev-
+low stock -MWPESAC02I9001
+fewer tahn 5 left  - MXSAAVI02CO001
+
+IN QA-
+low stock -MMRAAKC02CO001
+Fewer than 5 left - MMKAAVE09CO001
+LAST PIECE - MMZAAFI01BK001
+
+footer_UI.isml
+
+user Guid-
+https://mcmworldwide.atlassian.net/wiki/spaces/DT/pages/4473421858/Home+page+-+HP+Service+Tile
+https://mcmworldwide.atlassian.net/wiki/spaces/DT/pages/4096753665/PDP+User+Guide
+
+MCM Account FED-
+
+teamfedgroup@capgemini.com
+Capgemini@1234
+
+
+ xs is used for all screens including <576px, md for screen size 576px-991px, xl for 992px-1399px, xxl for >1400px
+
+
+JS note 
+
+${JSON.stringify(attr,null,2)}
